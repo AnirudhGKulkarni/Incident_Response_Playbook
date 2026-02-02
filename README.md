@@ -53,6 +53,9 @@ Incident-Response-Playbook/
 ├── Incident_Response_Playbook_Report.pdf
 ├── Incident_Response_Playbook.docx
 └── Diagrams/
+    ├── Incident Response Lifecycle.png
+    ├── Phishing Incident Response Flow.png
+    └── Malware Incident Response Process Diagram.png
 
 ---
 
