@@ -83,5 +83,5 @@ Through this project, I learned:
 ---
 
 ## Author
-Name: Anirudha G Kulkarni
+Name: Anirudha G Kulkarni \
 Domain: Cybersecurity
