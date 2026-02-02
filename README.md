@@ -51,7 +51,7 @@ Incident-Response-Playbook/
 │
 ├── README.md
 ├── Incident_Response_Playbook_Report.pdf
-├── Playbook_Documentation.docx
+├── Incident_Response_Playbook.docx
 └── Diagrams/
 
 ---
