@@ -47,15 +47,15 @@ This project follows the standard Incident Response lifecycle:
 ---
 
 ## Project Structure
-Incident-Response-Playbook/
-│
-├── README.md
-├── Incident_Response_Playbook_Report.pdf
-├── Incident_Response_Playbook.docx
-└── Diagrams/
-    ├── Incident Response Lifecycle.png
-    ├── Phishing Incident Response Flow.png
-    └── Malware Incident Response Process Diagram.png
+Incident-Response-Playbook \
+│ \
+├── README.md \
+├── Incident_Response_Playbook_Report.pdf \
+├── Incident_Response_Playbook.docx \
+└── Diagrams \
+    ├── Incident Response Lifecycle.png \
+    ├── Phishing Incident Response Flow.png \
+    └── Malware Incident Response Process Diagram.png \
 
 ---
 
